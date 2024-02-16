@@ -1,0 +1,14 @@
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\bin\Debug\Lobi Uygulaması.exe.config
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\bin\Debug\Lobi Uygulaması.exe
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\bin\Debug\Lobi Uygulaması.pdb
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.Form1.resources
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.HesapAc.resources
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.KartıTanımla.resources
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.Properties.Resources.resources
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi Uygulaması.csproj.GenerateResource.cache
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi Uygulaması.exe
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi Uygulaması.pdb
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.BakiyeYukle.resources
+C:\Users\furki\source\repos\Lobi Uygulaması\Lobi Uygulaması\obj\Debug\Lobi_Uygulaması.YuklenecekBakiyeMiktarı.resources
